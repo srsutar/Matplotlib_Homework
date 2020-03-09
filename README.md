@@ -1,2 +1,6 @@
-# Matplotlib_Homework
-Assignment-05
+# Matplotlib Homework
+## Matt is Awesome
+## Ahmeda Rocks
+
+- python can be hard
+ 
